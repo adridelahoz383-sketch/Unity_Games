@@ -1,0 +1,65 @@
+# =========================
+# Unity
+# =========================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# MemoryCaptures
+[Mm]emoryCaptures/
+
+# =========================
+# Visual Studio / Rider
+# =========================
+
+.vs/
+.idea/
+.vscode/
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.sln.iml
+
+# =========================
+# Unity generated files
+# =========================
+
+sysinfo.txt
+crashlytics-build.properties
+
+# =========================
+# OS generated files
+# =========================
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# =========================
+# Builds
+# =========================
+
+*.apk
+*.aab
+*.unitypackage
+
+# =========================
+# Unity Collaborate
+# =========================
+
+.collabignore
